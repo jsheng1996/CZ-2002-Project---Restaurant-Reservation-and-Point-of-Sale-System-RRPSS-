@@ -1,4 +1,4 @@
-# CZ-2002-Project---Restaurant-Reservation-and-Point-of-Sale-System-RRPSS-
+# CZ 2002-Project - Restaurant Reservation and Point-of-Sale System (RRPSS)
 
 ## Objectives
 The main objective of this assignment is  
